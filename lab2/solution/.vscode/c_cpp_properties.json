@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-arm",
+            "compilerPath": "/opt/mchp-lnx2-sdk/sysroots/x86_64-oesdk-linux/usr/bin/arm-oe-linux-gnueabi/arm-oe-linux-gnueabi-g++",
+            "compilerArgs": [
+                "-mfpu=neon-vfpv4",
+                "-mfloat-abi=hard",
+                "--sysroot=/opt/mchp-lnx2-sdk/sysroots/cortexa7hf-neon-vfpv4-oe-linux-gnueabi"
+            ]
+        }
+    ],
+    "version": 4
+}
