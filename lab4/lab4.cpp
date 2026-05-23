@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 /*
- * MASTERs Class 25028 LNX2 - Lab 4
+ * MASTERs Class 26025 LNX1 - Lab 4
  * This application creates a graphical UI that connects to a server and streams video.
  */
 
