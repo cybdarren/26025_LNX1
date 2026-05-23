@@ -1,3 +1,5 @@
 *.avi filter=lfs diff=lfs merge=lfs -text
 resources/mchp-graphics-lnx2-image-sama7d65-curiosity-sd.rootfs-20250604215511.wic filter=lfs diff=lfs merge=lfs -text
 resources/oecore-mchp-graphics-lnx2-image-x86_64-cortexa7hf-neon-vfpv4-sama7d65-curiosity-sd-toolchain-nodistro.0.sh filter=lfs diff=lfs merge=lfs -text
+*.wic filter=lfs diff=lfs merge=lfs -text
+*.sh filter=lfs diff=lfs merge=lfs -text
