@@ -2,7 +2,7 @@
     "TARGET_IP":"10.0.0.20",
     "DEBUG_PORT":"6666",
     "BINARY":"lab4.bin",
-    "SDK_DIR": "/opt/mchp-lnx1-sdk/environment-setup-cortexa7hf-neon-vfpv4-oe-linux-gnueabi",
+    "SDK_DIR": "/opt/mchp-lnx1-sdk/environment-setup-cortexa7hf-neon-vfpv4-mchp-linux-gnueabi",
     "files.associations": {
         "ui": "cpp"
     },

@@ -21,7 +21,7 @@
                     "ignoreFailures": true
                 }
             ],
-            "miDebuggerPath": "/opt/mchp-lnx1-sdk/sysroots/x86_64-oesdk-linux/usr/bin/arm-oe-linux-gnueabi/arm-oe-linux-gnueabi-gdb",
+            "miDebuggerPath": "/opt/mchp-lnx1-sdk/sysroots/x86_64-mchpsdk-linux/usr/bin/arm-mchp-linux-gnueabi/arm-mchp-linux-gnueabi-gdb",
             "miDebuggerServerAddress": "${config:TARGET_IP}:${config:DEBUG_PORT}",
         }
     ]
